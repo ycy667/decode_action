@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # api.py
 run_host = "192.168.31.11"
-run_port = 12345
+run_port = 6789
 
 
 
